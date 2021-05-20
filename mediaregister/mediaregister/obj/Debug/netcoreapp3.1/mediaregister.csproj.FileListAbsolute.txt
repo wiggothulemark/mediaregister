@@ -1,0 +1,15 @@
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.exe
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.deps.json
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.runtimeconfig.json
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.runtimeconfig.dev.json
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.dll
+C:\Users\thwi\source\repos\mediaregister\mediaregister\bin\Debug\netcoreapp3.1\mediaregister.pdb
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.csprojAssemblyReference.cache
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.Form1.resources
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.csproj.GenerateResource.cache
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.AssemblyInfoInputs.cache
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.AssemblyInfo.cs
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.csproj.CoreCompileInputs.cache
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.dll
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.pdb
+C:\Users\thwi\source\repos\mediaregister\mediaregister\obj\Debug\netcoreapp3.1\mediaregister.genruntimeconfig.cache
