@@ -88,6 +88,7 @@ namespace mediaregister
             // 
             // AddBookButton
             // 
+            this.AddBookButton.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.AddBookButton.Location = new System.Drawing.Point(134, 261);
             this.AddBookButton.Name = "AddBookButton";
             this.AddBookButton.Size = new System.Drawing.Size(130, 34);
@@ -99,6 +100,11 @@ namespace mediaregister
             // PagesBook
             // 
             this.PagesBook.Location = new System.Drawing.Point(112, 165);
+            this.PagesBook.Maximum = new decimal(new int[] {
+            2000000000,
+            0,
+            0,
+            0});
             this.PagesBook.Name = "PagesBook";
             this.PagesBook.Size = new System.Drawing.Size(150, 31);
             this.PagesBook.TabIndex = 5;
@@ -174,6 +180,11 @@ namespace mediaregister
             // LengthMovie
             // 
             this.LengthMovie.Location = new System.Drawing.Point(116, 162);
+            this.LengthMovie.Maximum = new decimal(new int[] {
+            2000000000,
+            0,
+            0,
+            0});
             this.LengthMovie.Name = "LengthMovie";
             this.LengthMovie.Size = new System.Drawing.Size(150, 31);
             this.LengthMovie.TabIndex = 12;
